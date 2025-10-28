@@ -1,5 +1,6 @@
 # Lifestyle Analyzer – Interactive Health & Habit Dashboard
 
+
 A Streamlit-based interactive dashboard that analyzes your daily health habits and provides personalized lifestyle recommendations using a Machine Learning model.
 
 Project Overview
