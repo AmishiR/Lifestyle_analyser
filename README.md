@@ -1,5 +1,31 @@
-# Lifestyle_analyser
-About
-A Streamlit-based interactive dashboard that analyzes your daily habits and provides personalized lifestyle recommendations. Users input health parameters such as BMI, water intake, workout frequency, exercise type, and meal habits. The app uses a Random Forest machine learning model to calculate a lifestyle score
+# Lifestyle Analyzer – Interactive Health & Habit Dashboard
 
-Resources
+A Streamlit-based interactive dashboard that analyzes your daily health habits and provides personalized lifestyle recommendations using a Machine Learning model.
+
+Project Overview
+
+Maintaining a healthy lifestyle is crucial, but self-assessment can be confusing. This project helps users understand their habits through data.
+
+Users provide:
+
+BMI
+
+Daily water intake
+
+Workout frequency
+
+Exercise type
+
+ Meal habits
+
+Other lifestyle factors
+
+The app then evaluates the inputs using a Random Forest Regressor to generate a Lifestyle Score and tailored recommendations for improvement.
+
+Features
+
+Clean and responsive UI built with Streamlit
+
+Machine Learning-powered lifestyle scoring
+
+Instant insights & recommended actions
